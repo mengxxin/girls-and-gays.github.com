@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://girls-and-gays.github.io/sitemap.xml 
