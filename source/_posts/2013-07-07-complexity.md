@@ -4,6 +4,7 @@ title: <第2期>外存复杂度
 description: "G&G沙龙第2期"
 category: 常规活动
 author: Bug
+comments: true
 tags: [复杂度, 排序, 磁盘]
 ---
 

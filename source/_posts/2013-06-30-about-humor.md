@@ -4,6 +4,7 @@ title: <番外篇-1>关于幽默
 description: "番外篇之一"
 category: 番外篇
 author: tomsheep
+comments: true
 tags: [沙龙, 幽默, 相声]
 ---
 

@@ -4,6 +4,7 @@ title: <第1期>《迦陵说词讲稿》读书分享
 description: "G&G沙龙第1期"
 category: 常规活动
 author: tomsheep
+comments: true
 tags: [诗词, 读书, 沙龙, 分享]
 ---
 
