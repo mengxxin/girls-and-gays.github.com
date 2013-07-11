@@ -256,6 +256,17 @@ Jun 19 2013 posted in 常规活动 Recent Posts 外存复杂度 关于幽默 《
 
 
 
+<script>
+function addBlankTargetForLinks () {
+  $('a[href^="http"]').each(function(){
+      $(this).attr('target', '_blank');
+  });
+}
+
+$(document).bind('DOMNodeInserted', function(event) {
+  addBlankTargetForLinks();
+});
+</script>
 
 
 </body>
